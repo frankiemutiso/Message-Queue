@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/francismutiso/Documents/Projects/Message_Queues/Receive/Receive.csproj": {}
+  },
+  "projects": {
+    "/Users/francismutiso/Documents/Projects/Message_Queues/Receive/Receive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/francismutiso/Documents/Projects/Message_Queues/Receive/Receive.csproj",
+        "projectName": "Receive",
+        "projectPath": "/Users/francismutiso/Documents/Projects/Message_Queues/Receive/Receive.csproj",
+        "packagesPath": "/Users/francismutiso/.nuget/packages/",
+        "outputPath": "/Users/francismutiso/Documents/Projects/Message_Queues/Receive/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/francismutiso/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/vantageintellica/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
