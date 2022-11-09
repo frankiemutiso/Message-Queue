@@ -1,0 +1,17 @@
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.csproj.AssemblyReference.cache
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.AssemblyInfoInputs.cache
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.AssemblyInfo.cs
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.csproj.CoreCompileInputs.cache
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/bin/Debug/net6.0/Send
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/bin/Debug/net6.0/Send.deps.json
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/bin/Debug/net6.0/Send.runtimeconfig.json
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/bin/Debug/net6.0/Send.dll
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/bin/Debug/net6.0/Send.pdb
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.csproj.CopyComplete
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.dll
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/refint/Send.dll
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.pdb
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/Send.genruntimeconfig.cache
+/Users/francismutiso/Documents/Projects/Message_Queues/Send/obj/Debug/net6.0/ref/Send.dll

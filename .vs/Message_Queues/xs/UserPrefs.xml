@@ -1,9 +1,18 @@
 ﻿<Properties StartupConfiguration="{51522F72-A9D5-4BB6-84DA-052DF9DC635B}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Receive/Program.cs">
+    <Files>
+      <File FileName="Send/Program.cs" Line="40" Column="2" />
+      <File FileName="Receive/Program.cs" Line="22" Column="23" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Message_Queues" expanded="True" selected="True" />
+          <Node name="Message_Queues" expanded="True">
+            <Node name="Receive" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Send" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
